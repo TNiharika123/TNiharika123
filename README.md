@@ -26,7 +26,8 @@ Currently focused on building innovative web applications and learning more abou
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TNiharika123&theme=vision-friendly-dark&hide_border=true)<br/>
-![Contributions Graph](https://github-contribution-stats.vercel.app/api/?username=TNiharika123&count_private=true&show_icons=true)
+![Contributions Graph](https://github-contribution-stats.vercel.app/api/?username=TNiharika123&count_private=true&show_icons=true)</br>
+![Wakatime](https://wakatime.com/badge/user/your-user-id.svg)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TNiharika123&theme=vision-friendly-dark&hide_border=true&layout=compact)<br/>
 
 

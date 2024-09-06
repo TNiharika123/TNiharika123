@@ -2,7 +2,7 @@
 <!-- Profile View Counter -->
 ![](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Niharika Thakur 👋
 I'm a passionate developer specializing in [your area of expertise, e.g., Web Development, Machine Learning, etc.].  
 I love to work on open-source projects and contribute to the community.
 
@@ -15,15 +15,15 @@ I love to work on open-source projects and contribute to the community.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNiharika123&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
 ## 🔥 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNiharika123&layout=compact&theme=radical)
 
 <!-- Contribution Graph -->
 ## 🌱 Contribution Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TNiharika123&theme=radical)
 
 ## 💼 Pinned Projects:
 - [Project 1](https://github.com/your-username/project-1): A brief description of your project.

@@ -1,7 +1,8 @@
-# 💫 About Me:
+
 ![My Banner](https://raw.githubusercontent.com/TNiharika123/github_profile/main/github-header-image.png)
-👋 Hi, I'm Niharika Thakur!  
-A passionate web developer and AI enthusiast!  
+
+👋 Hi,
+I am a passionate web developer and AI enthusiast!  
 Currently focused on building innovative web applications and learning more about machine learning.
 
 💡 "Programming isn't about what you know; it's about what you can figure out." — Chris Pine  

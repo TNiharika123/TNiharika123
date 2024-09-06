@@ -28,6 +28,8 @@ Currently focused on building innovative web applications and learning more abou
 ![](https://github-readme-stats.vercel.app/api?username=TNiharika123&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TNiharika123&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TNiharika123&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TNiharika123&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
+
 
 
 

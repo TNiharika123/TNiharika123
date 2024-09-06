@@ -1,5 +1,5 @@
 # 💫 About Me:
-![My Banner](https://github.com/TNiharika123/github_profile/raw/main/github-banner-image.jpg)
+![My Banner](https://raw.githubusercontent.com/TNiharika123/github_profile/main/github-header-image.png)
 👋 Hi, I'm Niharika Thakur!  
 A passionate web developer and AI enthusiast!  
 Currently focused on building innovative web applications and learning more about machine learning.

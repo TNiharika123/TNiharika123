@@ -27,7 +27,10 @@ Currently focused on building innovative web applications and learning more abou
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TNiharika123&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TNiharika123&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TNiharika123&theme=vision-friendly-dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TNiharika123&theme=vision-friendly-dark&hide_border=true&layout=compact)<br/>
+![Contributions Graph](https://activity-graph.herokuapp.com/graph?username=TNiharika123&theme=dracula)<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TNiharika123&theme=monokai&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
